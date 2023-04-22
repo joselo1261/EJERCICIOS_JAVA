@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package guia.pkg5;
+package Ejercicios_Dia_7_8;
 
 /**
  *
